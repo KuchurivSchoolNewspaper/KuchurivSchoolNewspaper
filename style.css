@@ -17,8 +17,7 @@
 .publications{
     border: solid 3px black;
     width: 100%;
-    padding-top: 5px;
-    padding-bottom:5px ;
+    
     text-align: center;
 }
 .publications-link{
@@ -27,4 +26,6 @@
     font-family: 'Times New Roman', Times, serif;
     font-weight:bold;
     font-size: 22px;
+    margin-top: 5px;
+    margin-bottom:5px ;
 }
