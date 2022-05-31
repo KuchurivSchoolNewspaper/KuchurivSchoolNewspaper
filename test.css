@@ -1,5 +1,5 @@
 body{
-	background: no-repeat 100% url("bg.png");
+	background: no-repeat url("bg.png");
 }
 
 
@@ -54,6 +54,9 @@ body{
 }
 
 @media (min-width: 920px) {
+    body{
+	background: no-repeat center/100% url("bg.png");
+}
     .container{
         width: 50%;
     }
